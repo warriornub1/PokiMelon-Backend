@@ -11,7 +11,13 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Setup .NET 5
+      - name: Setup .NET 8
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: "8.0.x"
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build app
+        run: dotnet build -c Release --no-restore
