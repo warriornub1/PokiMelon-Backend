@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Project\\Project\\OneLearn\\",
+  "WorkspaceRootPath": "C:\\PokiMelon\\PokiMelon-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|c:\\project\\project\\onelearn\\onelearn.application\\voicetranslation\\services\\passageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|solutionrelative:onelearn.application\\voicetranslation\\services\\passageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3C3CB11-D429-4832-9FFC-ED4343CB845B}|OneLearn.Test\\OneLearn.Test.csproj|c:\\pokimelon\\pokimelon-backend\\onelearn.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C3CB11-D429-4832-9FFC-ED4343CB845B}|OneLearn.Test\\OneLearn.Test.csproj|solutionrelative:onelearn.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|c:\\project\\project\\onelearn\\onelearn.application\\voicetranslation\\dtos\\passage\\request\\createpassagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|solutionrelative:onelearn.application\\voicetranslation\\dtos\\passage\\request\\createpassagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|c:\\pokimelon\\pokimelon-backend\\onelearn.application\\voicetranslation\\dtos\\passage\\validator\\ipassagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|solutionrelative:onelearn.application\\voicetranslation\\dtos\\passage\\validator\\ipassagedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|c:\\pokimelon\\pokimelon-backend\\onelearn.application\\voicetranslation\\dtos\\passage\\validator\\createpassagerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0F96E6-ABD3-490E-8D9B-A3C98A32FBC9}|OneLearn.Application\\OneLearn.Application.csproj|solutionrelative:onelearn.application\\voicetranslation\\dtos\\passage\\validator\\createpassagerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,27 +59,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PassageService.cs",
-              "DocumentMoniker": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\VoiceTranslation\\Services\\PassageService.cs",
-              "RelativeDocumentMoniker": "OneLearn.Application\\VoiceTranslation\\Services\\PassageService.cs",
-              "ToolTip": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\VoiceTranslation\\Services\\PassageService.cs",
-              "RelativeToolTip": "OneLearn.Application\\VoiceTranslation\\Services\\PassageService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwCcAAABQAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OneLearn.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Test\\UnitTest1.cs",
+              "RelativeToolTip": "OneLearn.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T14:56:22.625Z",
+              "WhenOpened": "2024-12-31T05:08:01.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreatePassageRequest.cs",
-              "DocumentMoniker": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Request\\CreatePassageRequest.cs",
-              "RelativeDocumentMoniker": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Request\\CreatePassageRequest.cs",
-              "ToolTip": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Request\\CreatePassageRequest.cs",
-              "RelativeToolTip": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Request\\CreatePassageRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "CreatePassageRequestValidator.cs",
+              "DocumentMoniker": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\CreatePassageRequestValidator.cs",
+              "RelativeDocumentMoniker": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\CreatePassageRequestValidator.cs",
+              "ToolTip": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\CreatePassageRequestValidator.cs",
+              "RelativeToolTip": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\CreatePassageRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T14:57:09.307Z",
+              "WhenOpened": "2024-12-30T18:51:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPassageDtoValidator.cs",
+              "DocumentMoniker": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\IPassageDtoValidator.cs",
+              "RelativeDocumentMoniker": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\IPassageDtoValidator.cs",
+              "ToolTip": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\IPassageDtoValidator.cs",
+              "RelativeToolTip": "OneLearn.Application\\VoiceTranslation\\DTOs\\Passage\\Validator\\IPassageDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:34:25.262Z",
               "EditorCaption": ""
             }
           ]

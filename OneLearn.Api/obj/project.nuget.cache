@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJSA+rDNlBM=",
+  "dgSpecHash": "268X0/5daIY=",
   "success": true,
-  "projectFilePath": "C:\\Project\\Project\\OneLearn\\OneLearn.Api\\OneLearn.Api.csproj",
+  "projectFilePath": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Api\\OneLearn.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yongy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\yongy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

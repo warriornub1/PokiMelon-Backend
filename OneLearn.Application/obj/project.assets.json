@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\OneLearn.Application.csproj",
+      "projectUniqueName": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\OneLearn.Application.csproj",
       "projectName": "OneLearn.Application",
-      "projectPath": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\OneLearn.Application.csproj",
+      "projectPath": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\OneLearn.Application.csproj",
       "packagesPath": "C:\\Users\\yongy\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\Project\\OneLearn\\OneLearn.Application\\obj\\",
+      "outputPath": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yongy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -589,8 +589,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Project\\Project\\OneLearn\\OneLearn.Domain\\OneLearn.Domain.csproj": {
-              "projectPath": "C:\\Project\\Project\\OneLearn\\OneLearn.Domain\\OneLearn.Domain.csproj"
+            "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Domain\\OneLearn.Domain.csproj": {
+              "projectPath": "C:\\PokiMelon\\PokiMelon-Backend\\OneLearn.Domain\\OneLearn.Domain.csproj"
             }
           }
         }
