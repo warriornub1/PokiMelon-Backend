@@ -27,7 +27,7 @@ jobs:
         run: dotnet test OneLearn.sln -c Release --no-build
 
       - name: Publish app
-        run: dotnet publish -c Release -o ./out
+        run: dotnet publish OneLearn.sln -c Release -o ./out
 
       - name: Deploy to Azure Webb Apps
         uses: azure/webapps-deploy@v3
