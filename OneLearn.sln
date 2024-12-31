@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneLearn.Domain", "OneLearn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OneLearn.Api", "OneLearn.Api\OneLearn.Api.csproj", "{947D8108-813A-4166-83F4-90179F17CD36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneLearn.Test", "OneLearn.Test\OneLearn.Test.csproj", "{E3C3CB11-D429-4832-9FFC-ED4343CB845B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{947D8108-813A-4166-83F4-90179F17CD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947D8108-813A-4166-83F4-90179F17CD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947D8108-813A-4166-83F4-90179F17CD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C3CB11-D429-4832-9FFC-ED4343CB845B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C3CB11-D429-4832-9FFC-ED4343CB845B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C3CB11-D429-4832-9FFC-ED4343CB845B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C3CB11-D429-4832-9FFC-ED4343CB845B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
